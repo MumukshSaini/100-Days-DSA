@@ -32,3 +32,5 @@ int main() {
     printf("Last: %d\n", lastOccurrence(arr, n, target));
     return 0;
 }
+
+// session 2
