@@ -31,3 +31,5 @@ int main() {
     printf("%lld\n", result);
     return 0;
 }
+
+// session 2
